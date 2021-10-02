@@ -1,0 +1,23 @@
+{
+  "name": "internship-test2",
+  "version": "1.0.0",
+  "description": "Problem statement is defined in the file \"Bungee Coding Round.docx\". Please refer to this file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulkit008/internship-test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pulkit008/internship-test2/issues"
+  },
+  "homepage": "https://github.com/Pulkit008/internship-test2#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6"
+  }
+}
